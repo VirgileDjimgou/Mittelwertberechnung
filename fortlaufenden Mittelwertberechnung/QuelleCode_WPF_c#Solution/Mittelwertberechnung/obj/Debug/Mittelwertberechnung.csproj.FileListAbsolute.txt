@@ -1,0 +1,15 @@
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\bin\Debug\Mittelwertberechnung.exe.config
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\bin\Debug\Mittelwertberechnung.exe
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\bin\Debug\Mittelwertberechnung.pdb
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\Mittelwertberechnung.csproj.AssemblyReference.cache
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\MainWindow.g.cs
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\App.g.cs
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\Mittelwertberechnung_MarkupCompile.cache
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\Mittelwertberechnung_MarkupCompile.lref
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\MainWindow.baml
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\Mittelwertberechnung.g.resources
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\Mittelwertberechnung.Properties.Resources.resources
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\Mittelwertberechnung.csproj.GenerateResource.cache
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\Mittelwertberechnung.csproj.CoreCompileInputs.cache
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\Mittelwertberechnung.exe
+C:\Users\djimg\Source\Repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\Mittelwertberechnung.pdb
